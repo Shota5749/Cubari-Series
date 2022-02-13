@@ -1,0 +1,17 @@
+{
+  "title": "Project Sekai Web Anthology",
+  "description": "Mangas from the [Project Sekai Web Anthology](https://pjsekai.sega.jp/anthology/index.html)",
+  "artist": "Various Artists",
+  "author": "Various Authors",
+  "cover": "https://i.imgur.com/WFE1VED.png",
+  "chapters": {
+    "1": {
+      "title": "1 - Leo/Need (1) - (Tanukichi)",
+      "volume": "",
+      "last_updated": "1644758422",
+      "groups": {
+        "u/MachiKurada": "/proxy/api/imgur/chapter/5ztVDZD"
+      }
+    }
+  }
+}
