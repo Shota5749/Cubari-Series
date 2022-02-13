@@ -6,11 +6,51 @@
   "cover": "https://i.imgur.com/WFE1VED.png",
   "chapters": {
     "1": {
-      "title": "1 - Leo/Need (1) - (Tanukichi)",
+      "title": "Leo/Need (1) - (Tanukichi)",
       "volume": "",
       "last_updated": "1644758422",
       "groups": {
         "u/MachiKurada": "/proxy/api/imgur/chapter/5ztVDZD"
+      }
+    },
+    "2": {
+      "title": "More More Jump! - Sparkling Memories (Jirou Oitomo)",
+      "volume": "",
+      "last_updated": "1644758739",
+      "groups": {
+        "u/MachiKurada": "/proxy/api/imgur/chapter/tkHtB25"
+      }
+    },
+    "3": {
+      "title": "Vivid Bad Squad - Like Vivid Cats and Bad Dogs (Kingin)",
+      "volume": "",
+      "last_updated": "1644758785",
+      "groups": {
+        "u/MachiKurada": "/proxy/api/imgur/chapter/peHPduY"
+      }
+    },
+    "4": {
+      "title": "Wonderlands x Showtime (1) (Ginmoku)",
+      "volume": "",
+      "last_updated": "1644758817",
+      "groups": {
+        "u/MachiKurada": "/proxy/api/imgur/chapter/9wXKHaW"
+      }
+    },
+    "5": {
+      "title": "Nightcord at 25 (1) (Mizumi)",
+      "volume": "",
+      "last_updated": "1644758882",
+      "groups": {
+        "u/MachiKurada": "/proxy/api/imgur/chapter/4ecmIOU"
+      }
+    },
+    "6": {
+      "title": "Leo/Need (2) (Shinnosuke Fujishima)",
+      "volume": "",
+      "last_updated": "1644758920",
+      "groups": {
+        "u/MachiKurada": "/proxy/api/imgur/chapter/lfwKfHB"
       }
     }
   }
